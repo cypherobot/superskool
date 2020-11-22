@@ -20,7 +20,7 @@
   <b><a href="https://cyberlax.com/">https://cyberlax.com/</a></b>
   <br>
 
-
+<center>
 <b>Deluxe Subscriber</b>
 <p>id: deluxeuser</p>
 <p>pwd: deluxeuser#1#2#3#4</p>
@@ -28,7 +28,7 @@
 <b>Economy Subscriber</b>
 <p>id: economyuser</p>
 <p>pwd: economyuser#1#2#3#4</p>
-
+<center>
 
 
 </p>
