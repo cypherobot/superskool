@@ -20,7 +20,7 @@
   <b><a href="https://cyberlax.com/">https://cyberlax.com/</a></b>
   <br>
 
-<center>
+<p align="center">
 <b>Deluxe Subscriber</b>
 <p>id: deluxeuser</p>
 <p>pwd: deluxeuser#1#2#3#4</p>
@@ -28,7 +28,7 @@
 <b>Economy Subscriber</b>
 <p>id: economyuser</p>
 <p>pwd: economyuser#1#2#3#4</p>
-<center>
+</p>
 
 
 </p>
@@ -84,7 +84,7 @@ That's it for now! Lot's of exiting features a going to be added in the future.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
 
-## ➤ Contributors
+## ➤ Contributor
 
 | Anurag Deep |
 
