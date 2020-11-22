@@ -17,30 +17,36 @@
 
 <p align="center">
   <b>Demo</b></br>
-  <sub><a href="https://cyberlax.com/">https://cyberlax.com/</a><sub>
+  <b><a href="https://cyberlax.com/">https://cyberlax.com/</a><b>
   <br>
 
-  <b>Users</b></br>
-  Deluxe Subscriber
-id: deluxeuser
-pwd: deluxeuser#1#2#3#4
 
-Economy Subscriber
-id: economyuser
-pwd: economyuser#1#2#3#4
+<b>Deluxe Subscriber<b>
+<p>id: deluxeuser</p>
+<p>pwd: deluxeuser#1#2#3#4</p>
+
+<b>Economy Subscriber<b>
+<p>id: economyuser</p>
+<p>pwd: economyuser#1#2#3#4</p>
+
+
+
+
+
+
+
+
 </p>
 
 <br />
-
 
 <p align="center">
   <img src="https://github.com/cypherobot/superskool/blob/master/front.png" alt="Demo" width="800" />
 </p>
 
-* **Simple**: Extremely simple to use - so simple that it almost feels like magic!
-* **Powerful**: Customize almost everything - add your own templates and variables if you like.
-* **Awesome**: when you will check it out, you feel the elagancy.
-
+- **Simple**: Extremely simple to use - so simple that it almost feels like magic!
+- **Powerful**: Customize almost everything - add your own templates and variables if you like.
+- **Awesome**: when you will check it out, you feel the elagancy.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
 
@@ -56,27 +62,24 @@ just download wordpress from wordpress.org and insatll it in your local host or 
 
 2. change config.php file according to your database username and password, and creat database using phpmyadmin or command line.
 
-3. after creation of database. import sql file that is given in our personal mail imbox. 
+3. after creation of database. import sql file that is given in our personal mail imbox.
 
 4. simply run the server and test the website in your browser.
 
-
 ## ➤ Features
 
-
-* User/Admin Dashboard
-* Subscription based Article Management
+- User/Admin Dashboard
+- Subscription based Article Management
   - payment mathods(stripe and paypal)
   - two lebvel of subscription(can be added more)
   - Economy level
     - user can read any two articles in for one month.
   - Deluxe level
     - user can read any ten articles in for six months.
-* No Nulled plugin installed for more security
-* Premium version of plugins are modified by myself to activate lincense keys.
-* easy to implement and modify accordingly
-* clean codes and awesome look of website.
-
+- No Nulled plugin installed for more security
+- Premium version of plugins are modified by myself to activate lincense keys.
+- easy to implement and modify accordingly
+- clean codes and awesome look of website.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#future-work)
 
@@ -86,13 +89,12 @@ That's it for now! Lot's of exiting features a going to be added in the future.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
 
-
 ## ➤ Contributors
-	                           |
 
+                               |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
 ## ➤ License
-	
+
 Licensed under [MIT](https://opensource.org/licenses/MIT).
