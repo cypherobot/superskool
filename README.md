@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cypherobot/superskool/blob/master/logo.jpg" alt="Logo" width="150" height="150" />
+  <img src="https://github.com/cypherobot/superskool/blob/master/logo.jpg" alt="Logo" width="650" height="150" />
 </p>
 <h1 align="center">SuperSkool by Anurag Deep</h1>
 <p align="center">
@@ -10,29 +10,24 @@
 
 <p align="center">
   <b>Developed Under Cyberlax domain for SuperSkool on Wordpress Plateform</b></br>
-  <sub>beautifully coded and designed by Anurag with backend system Included<sub>
+  <p>beautifully coded and designed by Anurag with backend system Included</p>
 </p>
 
 <br />
 
 <p align="center">
   <b>Demo</b></br>
-  <b><a href="https://cyberlax.com/">https://cyberlax.com/</a><b>
+  <b><a href="https://cyberlax.com/">https://cyberlax.com/</a></b>
   <br>
 
 
-<b>Deluxe Subscriber<b>
+<b>Deluxe Subscriber</b>
 <p>id: deluxeuser</p>
 <p>pwd: deluxeuser#1#2#3#4</p>
 
-<b>Economy Subscriber<b>
+<b>Economy Subscriber</b>
 <p>id: economyuser</p>
 <p>pwd: economyuser#1#2#3#4</p>
-
-
-
-
-
 
 
 
@@ -73,9 +68,9 @@ just download wordpress from wordpress.org and insatll it in your local host or 
   - payment mathods(stripe and paypal)
   - two lebvel of subscription(can be added more)
   - Economy level
-    - user can read any two articles in for one month.
+    - user can read any two articles in for one month in &9.99.
   - Deluxe level
-    - user can read any ten articles in for six months.
+    - user can read any ten articles in for six months in $29.9.
 - No Nulled plugin installed for more security
 - Premium version of plugins are modified by myself to activate lincense keys.
 - easy to implement and modify accordingly
@@ -91,7 +86,7 @@ That's it for now! Lot's of exiting features a going to be added in the future.
 
 ## ➤ Contributors
 
-                               |
+| Anurag Deep |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
